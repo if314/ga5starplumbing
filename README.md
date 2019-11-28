@@ -23,3 +23,5 @@ gcloud config list
 ### deploy
 gcloud app deploy
 
+## To run locally
+dev_appserver.py app.yaml

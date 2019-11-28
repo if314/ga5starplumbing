@@ -9,9 +9,18 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-body {
+body {x
   margin: 0;
 }
+div.navbar {
+  margin:0px, 20px,0px,20px;
+ float:left;
+}
+
+.topnumber a{
+  margin:5px;
+}
+
 article,
 aside,
 details,
